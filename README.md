@@ -1,1 +1,1 @@
-url soon
+https://r-beach-resort.netlify.com/
